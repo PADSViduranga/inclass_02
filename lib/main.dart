@@ -152,7 +152,7 @@ class MyProfilePage extends StatelessWidget {
               const SizedBox(height: 6),
 
               const Text(
-                'Diluka',
+                'sachintha',
                 style: TextStyle(fontSize: 14, color: Color(0xFF444444)),
               ),
 
@@ -179,7 +179,7 @@ class MyProfilePage extends StatelessWidget {
                   SizedBox(width: 6),
 
                   Text(
-                    'diluka.w@nsbm.ac.lk',
+                    'sachinthaviduranga874@gmail.com',
                     style: TextStyle(fontSize: 14, color: Color(0xFF444444)),
                   ),
                 ],
